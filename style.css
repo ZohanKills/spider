@@ -1,0 +1,19 @@
+.main{
+display: flex;
+margin-top: 30px;
+}
+.left{
+margin-left: 200px;
+}
+.right{
+    width: 550px;
+    height: 700px;
+
+}
+.center{
+    text-align:center;
+}
+p{
+    text-align: justify;
+    margin-left: 30px;
+}
